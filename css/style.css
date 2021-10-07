@@ -73,11 +73,11 @@ select {
 
 
 /* Varia */
-.floatrechts{
+.float-right{
   float: right;
 }
 
-.floatlinks{
+.float-left{
   float: left;
   margin-right: 15px;
 }
@@ -86,14 +86,3 @@ select {
   height: 45px;
   margin-top: 15px;  
 }
-
-.eindDiv {
-  clear: both;
-  display: block;
-margin-bottom: 15px;
-}
-
-#response {
-  background-color: lightgoldenrodyellow;
-}
-

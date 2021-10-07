@@ -4,9 +4,9 @@
 
 
 //wait for load
-window.addEventListener('load',Initialize);
+window.addEventListener("load", initialize);
 
-function Initialize()
+function initialize()
 {
    
 }
@@ -15,7 +15,7 @@ function Initialize()
 /**
  * use this function to validate the login data
  **/
-function CheckLogin()
+function checkLogin()
 {
     
 }

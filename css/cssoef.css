@@ -9,14 +9,14 @@ button {
   margin-left: 15px;
 }
 
-.logonCorrect {
+.logon-correct {
   
   border: solid green 2px;
   background-color: lightgreen;
   
 }
 
-.logonWrong {
+.logon-wrong {
   
   border:solid red 2px;
   background-color: rgb(245, 231, 231);
