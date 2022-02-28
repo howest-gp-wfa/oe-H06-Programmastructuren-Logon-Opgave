@@ -6,8 +6,7 @@
 //wait for load
 window.addEventListener("load", initialize);
 
-function initialize()
-{
+function initialize() {
    
 }
 
@@ -15,7 +14,6 @@ function initialize()
 /**
  * use this function to validate the login data
  **/
-function checkLogin()
-{
+function checkLogin() {
     
 }
